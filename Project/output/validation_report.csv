@@ -1,0 +1,75 @@
+file_name,invoice_number_inv,order_id,customer_name,due_date,ship_to,discount,shipping_cost,total,quantity_inv,quantity_po,rate_inv,rate_po,amount,expected_amount,validation_result,validation_status
+Invoice-04.pdf.pdf,14130,ES-2025-LT1711045-41340,Liz Thompson,Oct 18 2025,"Nanterre, Ile-de-
+France, France",755.7,89.18,6890.46,7,8.0,1079.57,1079.57,7556.98,8636.56,"Quantity Mismatch, Amount Mismatch",INVALID
+Invoice-45.pdf.pdf,21252,IN-2025-SV2036527-41306,Seth Vernon,Nov 29 2025,"Hefei, Anhui, China",0.0,90.41,10072.85,9,9.0,1109.16,1109.16,9982.44,9982.44,Match,VALID
+Invoice-11.pdf.pdf,11001,ES-2025-RA19285120-41335,Ralph Arnett,Oct 25 2025,"Puertollano, Castile-
+La Mancha, Spain",244.53,67.96,2268.74,3,3.0,815.1,815.1,2445.31,2445.31,Match,VALID
+Invoice-31.pdf.pdf,30385,ID-2025-JL1585092-41317,John Lucas,Nov 15 2025,"Auckland, Auckland,
+New Zealand",1470.44,117.25,2322.91,6,6.0,612.68,612.68,3676.1,3676.1,Match,VALID
+Invoice-07.pdf.pdf,10963,ES-2025-SW202458-41340,Scot Wooten,Oct 21 2025,"Vienna, Vienna,
+Austria",0.0,196.32,5338.08,4,3.0,1285.44,1285.44,5141.76,3856.32,"Quantity Mismatch, Overbilling",INVALID
+Invoice-06.pdf.pdf,9063,MX-2025-PO1885051-41338,Patrick O'Brill,Oct 20 2025,"Mixco, Guatemala, Guatemala",0.0,67.31,1282.03,2,2.0,607.36,607.36,1214.72,1214.72,Match,VALID
+Invoice-02.pdf.pdf,6459,MX-2025-DK1298539-41339,Darren Koutras,Oct 16 2025,"Mejicanos, San Salvador, El Salvador",0.0,243.79,9758.79,5,4.0,1903.0,1903.0,9515.0,7612.0,"Quantity Mismatch, Overbilling",INVALID
+Invoice-12.pdf.pdf,11000,ES-2025-RA19285120-41335,Ralph Arnett,Oct 26 2025,"Puertollano, Castile-
+La Mancha, Spain",0.0,151.11,23303.25,11,11.0,2104.74,2104.74,23152.14,23152.14,Match,VALID
+Invoice-08.pdf.pdf,22091,IN-2025-GB145307-41338,George Bell,Oct 22 2025,"Sydney, New South Wales, Australia",1929.86,133.11,17501.85,7,9.0,2756.94,2756.94,19298.6,24812.46,"Quantity Mismatch, Amount Mismatch",INVALID
+Invoice-34.pdf.pdf,12012,ES-2025-PP1895545-41313,Paul Prost,Nov 18 2025,"Castres, Languedoc-
+Roussillon-Midi-
+Pyrénées, France",300.39,97.68,1799.91,3,3.0,667.54,667.54,2002.62,2002.62,Match,VALID
+Invoice-43.pdf.pdf,1935,MX-2025-CC1210082-41308,Chad Cunningham,Nov 27 2025,"Guasave, Sinaloa, Mexico",3.59,75.25,1867.7,3,3.0,598.68,598.68,1796.04,1796.04,Match,VALID
+Invoice-18.pdf.pdf,22711,IN-2025-DL1333058-41328,Denise Leinenbach,Nov 2 2025,"Nagpur, Maharashtra,
+India",0.0,289.17,16225.17,5,5.0,3187.2,3187.2,15936.0,15936.0,Match,VALID
+Invoice-16.pdf.pdf,22988,IN-2025-RE194507-41329,Richard Eichhorn,Oct 30 2025,"Mackay, Queensland, Australia",140.13,120.77,1381.94,2,2.0,700.65,700.65,1401.3,1401.3,Match,VALID
+Invoice-20.pdf.pdf,49674,UP-2025-AH10030137-41325,Aaron Hawkins,Nov 4 2025,"Kryvyy Rih,
+Dnipropetrovs'k,
+Ukraine",0.0,172.16,8376.32,8,8.0,1025.52,1025.52,8204.16,8204.16,Match,VALID
+Invoice-15.pdf.pdf,28557,IN-2025-BT1153058-41331,Bradley Talbott,Oct 29 2025,"Muzaffarpur, Bihar, India",0.0,320.27,33028.07,6,3.0,5451.3,5451.3,32707.8,16353.9,"Quantity Mismatch, Overbilling",INVALID
+Invoice-24.pdf.pdf,28863,IN-2025-ME1801027-41322,Michelle Ellison,Nov 8 2025,"Yantai, Shandong, China",0.0,78.06,1938.06,2,1.0,930.0,930.0,1860.0,930.0,"Quantity Mismatch, Overbilling",INVALID
+Invoice-23.pdf.pdf,18517,ES-2025-FO1430545-41322,Frank Olsen,Nov 7 2025,"Nice, Provence-
+Alpes-Côte d'Azur,
+France",0.0,92.94,5888.94,10,10.0,579.6,579.6,5796.0,5796.0,Match,VALID
+Invoice-27.pdf.pdf,9595,MX-2025-RB1979518-41322,Ross Baird,Nov 11 2025,"Valinhos, São Paulo, Brazil",0.0,99.62,4873.22,6,6.0,795.6,795.6,4773.6,4773.6,Match,VALID
+Invoice-32.pdf.pdf,22561,IN-2025-MA1799559-41314,Michelle Arnett,Nov 16 2025,"Medan, Sumatera
+Utara, Indonesia",1556.12,68.89,7666.41,8,8.0,1144.2,1144.2,9153.64,9153.64,Match,VALID
+Invoice-05.pdf.pdf,24429,IN-2025-MZ173357-41340,Maria Zettner,Oct 19 2025,"Gold Coast, Queensland, Australia",184.59,109.26,1770.61,4,4.0,461.48,461.48,1845.94,1845.94,Match,VALID
+Invoice-10.pdf.pdf,36551,CA-2025-AH10195140-41338,Alan Haines,Oct 24 2025,"18018, Bethlehem,
+Pennsylvania, United
+States",59.62,10.79,149.91,2,2.0,99.37,99.37,198.74,198.74,Match,VALID
+Invoice-22.pdf.pdf,20145,ES-2025-BD11560139-41327,Brendan Dodson,Nov 6 2025,"Cambridge, England, United Kingdom",0.0,355.06,11783.56,5,5.0,2285.7,2285.7,11428.5,11428.5,Match,VALID
+Invoice-14.pdf.pdf,49650,SG-2025-EH4005111-41331,Erica Hernandez,Oct 28 2025,"Dakar, Dakar,
+Senegal",0.0,116.51,1383.47,2,2.0,633.48,633.48,1266.96,1266.96,Match,VALID
+Invoice-41.pdf.pdf,29555,IN-2025-JC157757-41310,John Castell,Nov 25 2025,"Bundaberg,
+Queensland,
+Australia",163.99,320.92,1796.8,2,2.0,819.94,819.94,1639.87,1639.87,Match,VALID
+Invoice-40.pdf.pdf,20954,IN-2025-SC2080058-41310,Stuart Calhoun,Nov 24 2025,"Bhilai, Chhattisgarh, India",0.0,207.44,3916.43,3,3.0,1236.33,1236.33,3708.99,3708.99,Match,VALID
+Invoice-44.pdf.pdf,15811,ES-2025-JH1582048-41306,John Huston,Nov 28 2025,"Hamburg, Hamburg, Germany",0.0,253.09,7009.21,7,7.0,965.16,965.16,6756.12,6756.12,Match,VALID
+Invoice-35.pdf.pdf,18704,ES-2025-JM1586545-41312,John Murray,Nov 19 2025,"Givors, Auvergne-
+Rhône-Alpes, France",0.0,79.56,1660.68,6,9.0,263.52,263.52,1581.12,2371.68,"Quantity Mismatch, Amount Mismatch",INVALID
+Invoice-26.pdf.pdf,11501,ES-2025-PB19210139-41327,Phillip Breyer,Nov 10 2025,"Coventry, England, United Kingdom",0.0,133.01,1159.25,2,2.0,513.12,513.12,1026.24,1026.24,Match,VALID
+Invoice-09.pdf.pdf,36552,CA-2025-AH10195140-41338,Alan Haines,Oct 23 2025,"18018, Bethlehem, Pennsylvania, United States",13.43,4.64,58.35,2,2.0,33.57,33.57,67.14,67.14,Match,VALID
+Invoice-29.pdf.pdf,23980,IN-2025-NG1843058-41319,Nathan Gelder,Nov 13 2025,"Chennai, Tamil Nadu, India",0.0,117.24,2301.24,4,4.0,546.0,546.0,2184.0,2184.0,Match,VALID
+Invoice-30.pdf.pdf,1398,MX-2025-MG1814526-41319,Mike Gockenbach,Nov 14 2025,"Arica, Arica y
+Parinacota, Chile",0.0,97.48,2464.18,7,4.0,338.1,338.1,2366.7,1352.4,"Quantity Mismatch, Overbilling",INVALID
+Invoice-46.pdf.pdf,21253,IN-2025-SV2036527-41306,Seth Vernon,Nov 30 2025,"Hefei, Anhui, China",0.0,77.19,7186.83,6,6.0,1184.94,1184.94,7109.64,7109.64,Match,VALID
+Invoice-42.pdf.pdf,6474,US-2025-JK15370143-41310,Jay Kimmel,Nov 26 2025,"Caracas, Distrito Capital, Venezuela",607.29,72.43,983.36,7,7.0,216.89,216.89,1518.22,1518.22,Match,VALID
+Invoice-17.pdf.pdf,22999,IN-2025-BP1123058-41329,Benjamin Patterson,Nov 1 2025,"Surat, Gujarat, India",0.0,704.08,8218.96,4,4.0,1878.72,1878.72,7514.88,7514.88,Match,VALID
+Invoice-38.pdf.pdf,12655,ES-2025-AJ1096045-41311,Astrea Jones,Nov 22 2025,"Paris, Ile-de-France,
+France",0.0,96.05,4002.41,6,6.0,651.06,651.06,3906.36,3906.36,Match,VALID
+Invoice-13.pdf.pdf,18509,ES-2025-JC15340139-41334,Jasper Cacioppo,Oct 27 2025,"Bristol, England, United Kingdom",0.0,69.61,3003.37,4,4.0,733.44,733.44,2933.76,2933.76,Match,VALID
+Invoice-19.pdf.pdf,11502,ES-2025-PB19210139-41327,Phillip Breyer,Nov 3 2025,"Coventry, England, United Kingdom",0.0,67.87,2993.59,6,6.0,487.62,487.62,2925.72,2925.72,Match,VALID
+Invoice-25.pdf.pdf,23981,IN-2025-NG1843058-41319,Nathan Gelder,Nov 9 2025,"Chennai, Tamil Nadu,
+India",0.0,78.13,1071.25,4,4.0,248.28,248.28,993.12,993.12,Match,VALID
+Invoice-01.pdf.pdf,14021,ES-2025-BE11335139-41340,Bill Eplett SuperStore,Oct 15 2025,"Kingswood, England, United Kingdom",0.0,205.01,9671.51,5,,1893.3,,9466.5,,Missing PO,INVALID
+Invoice-36.pdf.pdf,4375,MX-2025-SB2018593-41312,Sarah Brown,Nov 20 2025,"Managua, Managua,
+Nicaragua",3.81,111.48,2015.09,3,3.0,635.81,635.81,1907.42,1907.42,Match,VALID
+Invoice-39.pdf.pdf,20955,IN-2025-SC2080058-41310,Stuart Calhoun,Nov 23 2025,"Bhilai, Chhattisgarh, India",0.0,136.46,19302.32,7,7.0,2737.98,2737.98,19165.86,19165.86,Match,VALID
+Invoice-33.pdf.pdf,22563,IN-2025-MA1799559-41314,Michelle Arnett,Nov 17 2025,"Medan, Sumatera
+Utara, Indonesia",877.58,86.67,2459.4,8,8.0,406.29,406.29,3250.31,3250.31,Match,VALID
+Invoice-28.pdf.pdf,49660,TU-2025-TA11385134-41326,Tom Ashbrook,Nov 12 2025,"Silivri, Istanbul,
+Turkey",8299.27,107.91,5640.75,14,14.0,988.01,988.01,13832.11,13832.11,Match,VALID
+Invoice-03.pdf.pdf,24450,IN-2025-GM146807-41338,Greg Matthias,Oct 17 2025,"Sydney, New South Wales, Australia",40.92,67.67,435.99,1,1.0,409.24,409.24,409.24,409.24,Match,VALID
+Invoice-37.pdf.pdf,18705,ES-2025-JM1586545-41312,John Murray,Nov 21 2025,"Givors, Auvergne-
+Rhône-Alpes, France",208.93,158.88,1342.79,3,1.0,464.28,464.28,1392.84,464.28,"Quantity Mismatch, Overbilling",INVALID
+Invoice-21.pdf.pdf,35513,CA-2025-AB10600140-41322,Ann Blume,Nov 5 2025,"90004, Los Angeles,
+California, United
+States",0.0,1.7,29.42,3,3.0,9.24,9.24,27.72,27.72,Match,VALID

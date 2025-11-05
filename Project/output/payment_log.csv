@@ -1,0 +1,7 @@
+order_id,customer_name,due_date,amount,transaction_id,status,timestamp,message,justification,payment_mode
+MX-2025-PO1885051-41338,Patrick O'Brill,Oct 20 2025,1282.03,PREVIOUSLY_PAID,SUCCESS,2025-10-21T12:04:38.621009,Auto-paid earlier,Previously paid for past due invoice,PreviouslyPaid
+IN-2025-MZ173357-41340,Maria Zettner,Oct 19 2025,1770.61,PREVIOUSLY_PAID,SUCCESS,2025-10-21T12:04:38.621440,Auto-paid earlier,Previously paid for past due invoice,PreviouslyPaid
+IN-2025-GM146807-41338,Greg Matthias,Oct 17 2025,435.99,PREVIOUSLY_PAID,SUCCESS,2025-10-21T12:04:38.621863,Auto-paid earlier,Previously paid for past due invoice,PreviouslyPaid
+CA-2025-AH10195140-41338,Alan Haines,Oct 23 2025,58.35,PREVIOUSLY_PAID,SUCCESS,2025-10-24T03:36:06.264456,Auto-paid earlier,Previously paid for past due invoice,PreviouslyPaid
+CA-2025-AH10195140-41338,Alan Haines,Oct 24 2025,149.91,TXN-25526,SUCCESS,2025-10-24T03:36:06.272229,Payment triggered for Alan Haines ($149.91),Payment of $149.91 approved for Alan Haines. Order CA-2025-AH10195140-41338 verified with no discrepancies and is due on Oct 24 2025.,Auto
+ES-2025-RA19285120-41335,Ralph Arnett,Oct 25 2025,2268.74,TXN-73974,SUCCESS,2025-10-25T15:44:32.083187,Payment triggered for Ralph Arnett ($2268.74),Payment of $2268.74 approved for Ralph Arnett. Order ES-2025-RA19285120-41335 verified with no discrepancies and is due on Oct 25 2025.,Auto

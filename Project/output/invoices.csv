@@ -1,0 +1,144 @@
+invoice_number,order_id,customer_name,due_date,ship_to,ship_mode,subtotal,discount,shipping_cost,total,file_name,item_name,quantity,rate,amount
+14130,ES-2025-LT1711045-41340,Liz Thompson,Oct 18 2025,"Nanterre, Ile-de-
+France, France",Standard Class,7556.98,755.7,89.18,6890.46,Invoice-04.pdf.pdf,"Safco 3-Shelf Cabinet, Mobile
+Bookcases, Furniture, FUR-BO-5746
+Notes:",7,1079.57,7556.98
+21252,IN-2025-SV2036527-41306,Seth Vernon,Nov 29 2025,"Hefei, Anhui, China",Standard Class,9982.44,0.0,90.41,10072.85,Invoice-45.pdf.pdf,"Samsung Speaker Phone, with Caller ID
+Phones, Technology, TEC-PH-5846",9,1109.16,9982.44
+11001,ES-2025-RA19285120-41335,Ralph Arnett,Oct 25 2025,"Puertollano, Castile-
+La Mancha, Spain",First Class,2445.31,244.53,67.96,2268.74,Invoice-11.pdf.pdf,"StarTech Inkjet, Wireless
+Machines, Technology, TEC-MA-6142
+Notes:",3,815.1,2445.31
+30385,ID-2025-JL1585092-41317,John Lucas,Nov 15 2025,"Auckland, Auckland,
+New Zealand",Same Day,3676.1,1470.44,117.25,2322.91,Invoice-31.pdf.pdf,"Safco 3-Shelf Cabinet, Pine
+Bookcases, Furniture, FUR-BO-5747
+Notes:",6,612.68,3676.1
+10963,ES-2025-SW202458-41340,Scot Wooten,Oct 21 2025,"Vienna, Vienna,
+Austria",Second Class,5141.76,0.0,196.32,5338.08,Invoice-07.pdf.pdf,"Hewlett Fax Machine, Color
+Copiers, Technology, TEC-CO-4575
+Notes:",4,1285.44,5141.76
+9063,MX-2025-PO1885051-41338,Patrick O'Brill,Oct 20 2025,"Mixco, Guatemala, Guatemala",Standard Class,1214.72,0.0,67.31,1282.03,Invoice-06.pdf.pdf,"Novimex Executive Leather Armchair, Adjustable
+Chairs, Furniture, FUR-CH-5378",2,607.36,1214.72
+6459,MX-2025-DK1298539-41339,Darren Koutras,Oct 16 2025,"Mejicanos, San Salvador, El Salvador",Standard Class,9515.0,0.0,243.79,9758.79,Invoice-02.pdf.pdf,"KitchenAid Stove, Silver
+Appliances, Office Supplies, OFF-AP-4966",5,1903.0,9515.0
+11000,ES-2025-RA19285120-41335,Ralph Arnett,Oct 26 2025,"Puertollano, Castile-
+La Mancha, Spain",First Class,23152.14,0.0,151.11,23303.25,Invoice-12.pdf.pdf,"Canon Fax and Copier, Laser
+Copiers, Technology, TEC-CO-3685
+Notes:",11,2104.74,23152.14
+22091,IN-2025-GB145307-41338,George Bell,Oct 22 2025,"Sydney, New South Wales, Australia",Second Class,19298.6,1929.86,133.11,17501.85,Invoice-08.pdf.pdf,"Safco Classic Bookcase, Metal
+Bookcases, Furniture, FUR-BO-5760",7,2756.94,19298.6
+12012,ES-2025-PP1895545-41313,Paul Prost,Nov 18 2025,"Castres, Languedoc-
+Roussillon-Midi-
+Pyrénées, France",Standard Class,2002.62,300.39,97.68,1799.91,Invoice-34.pdf.pdf,"Canon Copy Machine, Digital
+Copiers, Technology, TEC-CO-3679",3,667.54,2002.62
+1935,MX-2025-CC1210082-41308,Chad Cunningham,Nov 27 2025,"Guasave, Sinaloa, Mexico",Second Class,1796.04,3.59,75.25,1867.7,Invoice-43.pdf.pdf,"HP Fax Machine, Laser
+Copiers, Technology, TEC-CO-4776
+Notes:",3,598.68,1796.04
+22711,IN-2025-DL1333058-41328,Denise Leinenbach,Nov 2 2025,"Nagpur, Maharashtra,
+India",Standard Class,15936.0,0.0,289.17,16225.17,Invoice-18.pdf.pdf,"Samsung Smart Phone, Full Size
+Phones, Technology, TEC-PH-5840
+Notes:",5,3187.2,15936.0
+22988,IN-2025-RE194507-41329,Richard Eichhorn,Oct 30 2025,"Mackay, Queensland, Australia",Standard Class,1401.3,140.13,120.77,1381.94,Invoice-16.pdf.pdf,"Safco Library with Doors, Metal
+Bookcases, Furniture, FUR-BO-5785
+Notes:",2,700.65,1401.3
+49674,UP-2025-AH10030137-41325,Aaron Hawkins,Nov 4 2025,"Kryvyy Rih,
+Dnipropetrovs'k,
+Ukraine",First Class,8204.16,0.0,172.16,8376.32,Invoice-20.pdf.pdf,"Hon Rocking Chair, Black
+Chairs, Furniture, FUR-CH-4682
+Notes:",8,1025.52,8204.16
+28557,IN-2025-BT1153058-41331,Bradley Talbott,Oct 29 2025,"Muzaffarpur, Bihar, India",Standard Class,32707.8,0.0,320.27,33028.07,Invoice-15.pdf.pdf,"Barricks Conference Table, Fully Assembled
+Tables, Furniture, FUR-TA-3344",6,5451.3,32707.8
+28863,IN-2025-ME1801027-41322,Michelle Ellison,Nov 8 2025,"Yantai, Shandong, China",Standard Class,1860.0,0.0,78.06,1938.06,Invoice-24.pdf.pdf,"Office Star Executive Leather Armchair, Adjustable Chairs, Furniture, FUR-CH-5441",2,930.0,1860.0
+18517,ES-2025-FO1430545-41322,Frank Olsen,Nov 7 2025,"Nice, Provence-
+Alpes-Côte d'Azur,
+France",Standard Class,5796.0,0.0,92.94,5888.94,Invoice-23.pdf.pdf,"Belkin Numeric Keypad, Bluetooth
+Accessories, Technology, TEC-AC-3396",10,579.6,5796.0
+9595,MX-2025-RB1979518-41322,Ross Baird,Nov 11 2025,"Valinhos, São Paulo, Brazil",Standard Class,4773.6,0.0,99.62,4873.22,Invoice-27.pdf.pdf,"Smead Lockers, Industrial
+Storage, Office Supplies, OFF-ST-6047",6,795.6,4773.6
+22561,IN-2025-MA1799559-41314,Michelle Arnett,Nov 16 2025,"Medan, Sumatera
+Utara, Indonesia",First Class,9153.64,1556.12,68.89,7666.41,Invoice-32.pdf.pdf,"Konica Card Printer, Red
+Machines, Technology, TEC-MA-5003",8,1144.2,9153.64
+24429,IN-2025-MZ173357-41340,Maria Zettner,Oct 19 2025,"Gold Coast, Queensland, Australia",First Class,1845.94,184.59,109.26,1770.61,Invoice-05.pdf.pdf,"Hon Rocking Chair, Black
+Chairs, Furniture, FUR-CH-4682
+Notes:",4,461.48,1845.94
+36551,CA-2025-AH10195140-41338,Alan Haines,Oct 24 2025,"18018, Bethlehem,
+Pennsylvania, United
+States",Second Class,198.74,59.62,10.79,149.91,Invoice-10.pdf.pdf,"Situations Contoured Folding Chairs, 4/Set
+Chairs, Furniture, FUR-CH-6016",2,99.37,198.74
+20145,ES-2025-BD11560139-41327,Brendan Dodson,Nov 6 2025,"Cambridge, England, United Kingdom",First Class,11428.5,0.0,355.06,11783.56,Invoice-22.pdf.pdf,"Hon Executive Leather Armchair, Black
+Chairs, Furniture, FUR-CH-4655",5,2285.7,11428.5
+49650,SG-2025-EH4005111-41331,Erica Hernandez,Oct 28 2025,"Dakar, Dakar,
+Senegal",Standard Class,1266.96,0.0,116.51,1383.47,Invoice-14.pdf.pdf,"Brother Fax Machine, High-Speed
+Copiers, Technology, TEC-CO-3597
+Notes:",2,633.48,1266.96
+29555,IN-2025-JC157757-41310,John Castell,Nov 25 2025,"Bundaberg,
+Queensland,
+Australia",First Class,1639.87,163.99,320.92,1796.8,Invoice-41.pdf.pdf,"Novimex Executive Leather Armchair, Adjustable
+Chairs, Furniture, FUR-CH-5378",2,819.94,1639.87
+20954,IN-2025-SC2080058-41310,Stuart Calhoun,Nov 24 2025,"Bhilai, Chhattisgarh, India",Standard Class,3708.99,0.0,207.44,3916.43,Invoice-40.pdf.pdf,"Dania Classic Bookcase, Pine
+Bookcases, Furniture, FUR-BO-3891
+Notes:",3,1236.33,3708.99
+15811,ES-2025-JH1582048-41306,John Huston,Nov 28 2025,"Hamburg, Hamburg, Germany",First Class,6756.12,0.0,253.09,7009.21,Invoice-44.pdf.pdf,"Samsung Signal Booster, Full Size
+Phones, Technology, TEC-PH-5836
+Notes:",7,965.16,6756.12
+18704,ES-2025-JM1586545-41312,John Murray,Nov 19 2025,"Givors, Auvergne-
+Rhône-Alpes, France",Same Day,1581.12,0.0,79.56,1660.68,Invoice-35.pdf.pdf,"Fiskars Trimmer, Easy Grip
+Supplies, Office Supplies, OFF-SU-4325",6,263.52,1581.12
+11501,ES-2025-PB19210139-41327,Phillip Breyer,Nov 10 2025,"Coventry, England, United Kingdom",First Class,1026.24,0.0,133.01,1159.25,Invoice-26.pdf.pdf,"SanDisk Router, USB
+Accessories, Technology, TEC-AC-5897",2,513.12,1026.24
+36552,CA-2025-AH10195140-41338,Alan Haines,Oct 23 2025,"18018, Bethlehem, Pennsylvania, United States",Second Class,67.14,13.43,4.64,58.35,Invoice-09.pdf.pdf,"36X48 HARDFLOOR CHAIRMAT
+Furnishings, Furniture, FUR-FU-2864
+Notes:",2,33.57,67.14
+23980,IN-2025-NG1843058-41319,Nathan Gelder,Nov 13 2025,"Chennai, Tamil Nadu, India",First Class,2184.0,0.0,117.24,2301.24,Invoice-29.pdf.pdf,"Nokia Signal Booster, with Caller ID
+Phones, Technology, TEC-PH-5353
+Notes:",4,546.0,2184.0
+1398,MX-2025-MG1814526-41319,Mike Gockenbach,Nov 14 2025,"Arica, Arica y
+Parinacota, Chile",First Class,2366.7,0.0,97.48,2464.18,Invoice-30.pdf.pdf,"Logitech Keyboard, Bluetooth
+Accessories, Technology, TEC-AC-5115",7,338.1,2366.7
+21253,IN-2025-SV2036527-41306,Seth Vernon,Nov 30 2025,"Hefei, Anhui, China",Standard Class,7109.64,0.0,77.19,7186.83,Invoice-46.pdf.pdf,"Smead Lockers, Wire Frame
+Storage, Office Supplies, OFF-ST-6049",6,1184.94,7109.64
+6474,US-2025-JK15370143-41310,Jay Kimmel,Nov 26 2025,"Caracas, Distrito Capital, Venezuela",First Class,1518.22,607.29,72.43,983.36,Invoice-42.pdf.pdf,"Breville Toaster, Silver
+Appliances, Office Supplies, OFF-AP-3584",7,216.89,1518.22
+22999,IN-2025-BP1123058-41329,Benjamin Patterson,Nov 1 2025,"Surat, Gujarat, India",Same Day,7514.88,0.0,704.08,8218.96,Invoice-17.pdf.pdf,"Office Star Executive Leather Armchair, Red
+Chairs, Furniture, FUR-CH-5443",4,1878.72,7514.88
+12655,ES-2025-AJ1096045-41311,Astrea Jones,Nov 22 2025,"Paris, Ile-de-France,
+France",Standard Class,3906.36,0.0,96.05,4002.41,Invoice-38.pdf.pdf,"Rubbermaid Frame, Erganomic
+Furnishings, Furniture, FUR-FU-5730
+Notes:",6,651.06,3906.36
+18509,ES-2025-JC15340139-41334,Jasper Cacioppo,Oct 27 2025,"Bristol, England, United Kingdom",Standard Class,2933.76,0.0,69.61,3003.37,Invoice-13.pdf.pdf,"Cisco Audio Dock, Full Size
+Phones, Technology, TEC-PH-3785
+Notes:",4,733.44,2933.76
+11502,ES-2025-PB19210139-41327,Phillip Breyer,Nov 3 2025,"Coventry, England, United Kingdom",First Class,2925.72,0.0,67.87,2993.59,Invoice-19.pdf.pdf,"Enermax Keyboard, Erganomic
+Accessories, Technology, TEC-AC-4156
+Notes:",6,487.62,2925.72
+23981,IN-2025-NG1843058-41319,Nathan Gelder,Nov 9 2025,"Chennai, Tamil Nadu,
+India",First Class,993.12,0.0,78.13,1071.25,Invoice-25.pdf.pdf,"SAFCO Chairmat, Set of Two
+Chairs, Furniture, FUR-CH-5759
+Notes:",4,248.28,993.12
+14021,ES-2025-BE11335139-41340,Bill Eplett SuperStore,Oct 15 2025,"Kingswood, England, United Kingdom",Second Class,9466.5,0.0,205.01,9671.51,Invoice-01.pdf.pdf,"Canon Wireless Fax, Laser
+Copiers, Technology, TEC-CO-3710",5,1893.3,9466.5
+4375,MX-2025-SB2018593-41312,Sarah Brown,Nov 20 2025,"Managua, Managua,
+Nicaragua",Second Class,1907.42,3.81,111.48,2015.09,Invoice-36.pdf.pdf,"Brother Fax Machine, Laser
+Copiers, Technology, TEC-CO-3598",3,635.81,1907.42
+20955,IN-2025-SC2080058-41310,Stuart Calhoun,Nov 23 2025,"Bhilai, Chhattisgarh, India",Standard Class,19165.86,0.0,136.46,19302.32,Invoice-39.pdf.pdf,"Safco Library with Doors, Pine
+Bookcases, Furniture, FUR-BO-5787
+Notes:",7,2737.98,19165.86
+22563,IN-2025-MA1799559-41314,Michelle Arnett,Nov 17 2025,"Medan, Sumatera
+Utara, Indonesia",First Class,3250.31,877.58,86.67,2459.4,Invoice-33.pdf.pdf,"Harbour Creations Chairmat, Black
+Chairs, Furniture, FUR-CH-4523
+Notes:",8,406.29,3250.31
+49660,TU-2025-TA11385134-41326,Tom Ashbrook,Nov 12 2025,"Silivri, Istanbul,
+Turkey",Standard Class,13832.11,8299.27,107.91,5640.75,Invoice-28.pdf.pdf,"Office Star Swivel Stool, Adjustable
+Chairs, Furniture, FUR-CH-5454
+Notes:",14,988.01,13832.11
+24450,IN-2025-GM146807-41338,Greg Matthias,Oct 17 2025,"Sydney, New South Wales, Australia",Standard Class,409.24,40.92,67.67,435.99,Invoice-03.pdf.pdf,"Hon Executive Leather Armchair, Adjustable
+Chairs, Furniture, FUR-CH-4654",1,409.24,409.24
+18705,ES-2025-JM1586545-41312,John Murray,Nov 21 2025,"Givors, Auvergne-
+Rhône-Alpes, France",Same Day,1392.84,208.93,158.88,1342.79,Invoice-37.pdf.pdf,"Cisco Audio Dock, with Caller ID
+Phones, Technology, TEC-PH-3787
+Notes:",3,464.28,1392.84
+35513,CA-2025-AB10600140-41322,Ann Blume,Nov 5 2025,"90004, Los Angeles,
+California, United
+States",Standard Class,27.72,0.0,1.7,29.42,Invoice-21.pdf.pdf,"Smead Alpha-Z Color-Coded Second Alphabetical Labels and
+Starter Set
+Labels, Office Supplies, OFF-LA-6022",3,9.24,27.72
